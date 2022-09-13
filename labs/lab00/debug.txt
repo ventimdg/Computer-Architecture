@@ -1,0 +1,12 @@
+OSTYPE='darwin20'
+BASH_VERSION='GNU bash, version 3.2.57(1)-release (arm64-apple-darwin20)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+SH_VERSION='GNU bash, version 3.2.57(1)-release (arm64-apple-darwin20)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+GIT_VERSION='git version 2.33.0'
+PYTHON3_VERSION='Python 3.10.0'
+PYTHON_VERSION='Python 2.7.16'
+PY_VERSION='gen-debug.sh: line 13: py: command not found'
+JAVA_VERSION='openjdk version "17.0.3" 2022-04-19
+OpenJDK Runtime Environment Temurin-17.0.3+7 (build 17.0.3+7)
+OpenJDK 64-Bit Server VM Temurin-17.0.3+7 (build 17.0.3+7, mixed mode)'
